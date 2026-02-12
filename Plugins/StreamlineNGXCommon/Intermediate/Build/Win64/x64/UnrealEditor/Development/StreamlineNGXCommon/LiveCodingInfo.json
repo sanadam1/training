@@ -1,0 +1,9 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.StreamlineNGXCommon.cpp.obj": [
+			"PerModuleInline.gen.cpp.obj",
+			"StreamlineNGXCommon.cpp.obj"
+		]
+	}
+}

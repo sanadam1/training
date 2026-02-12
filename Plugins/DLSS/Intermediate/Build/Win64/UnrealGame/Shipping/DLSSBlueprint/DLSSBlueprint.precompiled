@@ -1,0 +1,7 @@
+{
+	"OutputFiles": [
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\DLSSBlueprint\\Module.DLSSBlueprint.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\DLSSBlueprint\\DLSSLibrary.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\DLSSBlueprint\\DLSSUpscalerModularFeatureTest.cpp.obj"
+	]
+}

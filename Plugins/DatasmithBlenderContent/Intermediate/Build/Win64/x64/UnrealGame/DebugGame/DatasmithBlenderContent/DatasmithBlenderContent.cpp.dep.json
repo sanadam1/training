@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\tjtod\\unrealprojet\\myproject\\plugins\\datasmithblendercontent\\source\\datasmithblendercontent\\private\\datasmithblendercontent.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\tjtod\\unrealprojet\\myproject\\intermediate\\build\\win64\\x64\\myproject\\debuggame\\engine\\sharedpch.engine.project.nonoptimized.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\tjtod\\unrealprojet\\myproject\\plugins\\datasmithblendercontent\\intermediate\\build\\win64\\x64\\unrealgame\\debuggame\\datasmithblendercontent\\definitions.datasmithblendercontent.h",
+            "c:\\users\\tjtod\\unrealprojet\\myproject\\plugins\\datasmithblendercontent\\source\\datasmithblendercontent\\public\\datasmithblendercontent.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

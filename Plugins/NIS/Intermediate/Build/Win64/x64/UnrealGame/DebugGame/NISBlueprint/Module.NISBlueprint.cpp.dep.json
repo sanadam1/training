@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\tjtod\\unrealprojet\\myproject\\plugins\\nis\\intermediate\\build\\win64\\x64\\unrealgame\\debuggame\\nisblueprint\\module.nisblueprint.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\tjtod\\unrealprojet\\myproject\\intermediate\\build\\win64\\x64\\myproject\\debuggame\\engine\\sharedpch.engine.project.nonoptimized.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\tjtod\\unrealprojet\\myproject\\plugins\\nis\\intermediate\\build\\win64\\x64\\unrealgame\\debuggame\\nisblueprint\\definitions.nisblueprint.h",
+            "c:\\users\\tjtod\\unrealprojet\\myproject\\plugins\\nis\\intermediate\\build\\win64\\unrealgame\\inc\\nisblueprint\\uht\\nisblueprint.init.gen.cpp",
+            "c:\\users\\tjtod\\unrealprojet\\myproject\\plugins\\nis\\intermediate\\build\\win64\\unrealgame\\inc\\nisblueprint\\uht\\nislibrary.gen.cpp",
+            "c:\\users\\tjtod\\unrealprojet\\myproject\\plugins\\nis\\source\\nisblueprint\\public\\nislibrary.h",
+            "c:\\users\\tjtod\\unrealprojet\\myproject\\plugins\\nis\\intermediate\\build\\win64\\unrealgame\\inc\\nisblueprint\\uht\\nislibrary.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

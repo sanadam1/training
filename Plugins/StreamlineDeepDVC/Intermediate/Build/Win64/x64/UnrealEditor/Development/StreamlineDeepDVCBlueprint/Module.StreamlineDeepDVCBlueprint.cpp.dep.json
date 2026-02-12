@@ -1,0 +1,24 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\tjtod\\unrealprojet\\myproject\\plugins\\streamlinedeepdvc\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\streamlinedeepdvcblueprint\\module.streamlinedeepdvcblueprint.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\tjtod\\unrealprojet\\myproject\\intermediate\\build\\win64\\x64\\myprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\tjtod\\unrealprojet\\myproject\\plugins\\streamlinedeepdvc\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\streamlinedeepdvcblueprint\\definitions.streamlinedeepdvcblueprint.h",
+            "c:\\users\\tjtod\\unrealprojet\\myproject\\plugins\\streamlinedeepdvc\\intermediate\\build\\win64\\unrealeditor\\inc\\streamlinedeepdvcblueprint\\uht\\streamlinedeepdvcblueprint.init.gen.cpp",
+            "c:\\users\\tjtod\\unrealprojet\\myproject\\plugins\\streamlinedeepdvc\\intermediate\\build\\win64\\unrealeditor\\inc\\streamlinedeepdvcblueprint\\uht\\streamlinelibrarydeepdvc.gen.cpp",
+            "c:\\users\\tjtod\\unrealprojet\\myproject\\plugins\\streamlinedeepdvc\\source\\streamlinedeepdvcblueprint\\public\\streamlinelibrarydeepdvc.h",
+            "c:\\users\\tjtod\\unrealprojet\\myproject\\plugins\\streamlinecore\\source\\streamlineblueprint\\public\\streamlinelibrary.h",
+            "f:\\epic\\game\\ue_5.5\\engine\\source\\runtime\\core\\public\\misc\\engineversioncomparison.h",
+            "f:\\epic\\game\\ue_5.5\\engine\\source\\runtime\\coreuobject\\public\\blueprint\\blueprintexceptioninfo.h",
+            "c:\\users\\tjtod\\unrealprojet\\myproject\\plugins\\streamlinecore\\intermediate\\build\\win64\\unrealeditor\\inc\\streamlineblueprint\\uht\\streamlinelibrary.generated.h",
+            "c:\\users\\tjtod\\unrealprojet\\myproject\\plugins\\streamlinecore\\source\\streamlinecore\\public\\streamlinecore.h",
+            "c:\\users\\tjtod\\unrealprojet\\myproject\\plugins\\streamlinedeepdvc\\intermediate\\build\\win64\\unrealeditor\\inc\\streamlinedeepdvcblueprint\\uht\\streamlinelibrarydeepdvc.generated.h",
+            "c:\\users\\tjtod\\unrealprojet\\myproject\\plugins\\streamlinedeepdvc\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\streamlinedeepdvcblueprint\\permoduleinline.gen.cpp",
+            "f:\\epic\\game\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

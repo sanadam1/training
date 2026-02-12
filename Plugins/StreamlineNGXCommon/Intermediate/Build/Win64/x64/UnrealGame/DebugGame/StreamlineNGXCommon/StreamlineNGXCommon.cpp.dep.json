@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\tjtod\\unrealprojet\\myproject\\plugins\\streamlinengxcommon\\source\\streamlinengxcommon\\private\\streamlinengxcommon.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\tjtod\\unrealprojet\\myproject\\intermediate\\build\\win64\\x64\\myproject\\debuggame\\engine\\sharedpch.engine.project.nonoptimized.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\tjtod\\unrealprojet\\myproject\\plugins\\streamlinengxcommon\\intermediate\\build\\win64\\x64\\unrealgame\\debuggame\\streamlinengxcommon\\definitions.streamlinengxcommon.h",
+            "c:\\users\\tjtod\\unrealprojet\\myproject\\plugins\\streamlinengxcommon\\source\\streamlinengxcommon\\public\\streamlinengxcommon.h",
+            "f:\\epic\\game\\ue_5.5\\engine\\source\\runtime\\core\\public\\misc\\engineversioncomparison.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

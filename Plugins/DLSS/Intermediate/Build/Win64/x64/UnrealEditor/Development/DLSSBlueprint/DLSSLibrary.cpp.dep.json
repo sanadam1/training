@@ -1,0 +1,42 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\tjtod\\unrealprojet\\myproject\\plugins\\dlss\\source\\dlssblueprint\\private\\dlsslibrary.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\tjtod\\unrealprojet\\myproject\\intermediate\\build\\win64\\x64\\myprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\tjtod\\unrealprojet\\myproject\\plugins\\dlss\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dlssblueprint\\definitions.dlssblueprint.h",
+            "c:\\users\\tjtod\\unrealprojet\\myproject\\plugins\\dlss\\source\\dlssblueprint\\public\\dlsslibrary.h",
+            "c:\\users\\tjtod\\unrealprojet\\myproject\\plugins\\dlss\\intermediate\\build\\win64\\unrealeditor\\inc\\dlssblueprint\\uht\\dlsslibrary.generated.h",
+            "c:\\users\\tjtod\\unrealprojet\\myproject\\plugins\\dlss\\source\\dlss\\public\\dlss.h",
+            "c:\\users\\tjtod\\unrealprojet\\myproject\\plugins\\dlss\\source\\dlss\\public\\dlsssettings.h",
+            "c:\\users\\tjtod\\unrealprojet\\myproject\\plugins\\dlss\\intermediate\\build\\win64\\unrealeditor\\inc\\dlss\\uht\\dlsssettings.generated.h",
+            "c:\\users\\tjtod\\unrealprojet\\myproject\\plugins\\dlss\\source\\dlss\\public\\dlssupscaler.h",
+            "f:\\epic\\game\\ue_5.5\\engine\\source\\runtime\\rendercore\\public\\customresourcepool.h",
+            "c:\\users\\tjtod\\unrealprojet\\myproject\\plugins\\dlss\\source\\ngxrhi\\public\\ngxrhi.h",
+            "c:\\users\\tjtod\\unrealprojet\\myproject\\plugins\\dlss\\source\\thirdparty\\ngx\\include\\nvsdk_ngx_params.h",
+            "c:\\users\\tjtod\\unrealprojet\\myproject\\plugins\\dlss\\source\\thirdparty\\ngx\\include\\nvsdk_ngx_defs.h",
+            "c:\\users\\tjtod\\unrealprojet\\myproject\\plugins\\dlss\\source\\thirdparty\\ngx\\include\\nvsdk_ngx_helpers_dlssd.h",
+            "c:\\users\\tjtod\\unrealprojet\\myproject\\plugins\\dlss\\source\\thirdparty\\ngx\\include\\nvsdk_ngx_helpers.h",
+            "c:\\users\\tjtod\\unrealprojet\\myproject\\plugins\\dlss\\source\\thirdparty\\ngx\\include\\nvsdk_ngx.h",
+            "c:\\users\\tjtod\\unrealprojet\\myproject\\plugins\\dlss\\source\\thirdparty\\ngx\\include\\nvsdk_ngx_defs_dlssd.h",
+            "c:\\users\\tjtod\\unrealprojet\\myproject\\plugins\\dlss\\source\\thirdparty\\ngx\\include\\nvsdk_ngx_params_dlssd.h",
+            "f:\\epic\\game\\ue_5.5\\engine\\source\\runtime\\engine\\public\\scenetexturesconfig.h",
+            "f:\\epic\\game\\ue_5.5\\engine\\source\\runtime\\rendercore\\public\\gbufferinfo.h",
+            "c:\\users\\tjtod\\unrealprojet\\myproject\\plugins\\streamlinengxcommon\\source\\streamlinengxcommon\\public\\streamlinengxrhi.h",
+            "c:\\users\\tjtod\\unrealprojet\\myproject\\plugins\\streamlinengxcommon\\source\\streamlinengxcommon\\public\\streamlinengxcommon.h",
+            "f:\\epic\\game\\ue_5.5\\engine\\source\\runtime\\core\\public\\misc\\engineversioncomparison.h",
+            "f:\\epic\\game\\ue_5.5\\engine\\source\\runtime\\projects\\public\\interfaces\\ipluginmanager.h",
+            "f:\\epic\\game\\ue_5.5\\engine\\source\\runtime\\projects\\public\\plugindescriptor.h",
+            "f:\\epic\\game\\ue_5.5\\engine\\source\\runtime\\projects\\public\\custombuildsteps.h",
+            "f:\\epic\\game\\ue_5.5\\engine\\source\\runtime\\projects\\public\\localizationdescriptor.h",
+            "f:\\epic\\game\\ue_5.5\\engine\\source\\runtime\\projects\\public\\moduledescriptor.h",
+            "f:\\epic\\game\\ue_5.5\\engine\\source\\runtime\\projects\\public\\plugindisalloweddescriptor.h",
+            "f:\\epic\\game\\ue_5.5\\engine\\source\\runtime\\projects\\public\\pluginreferencedescriptor.h",
+            "f:\\epic\\game\\ue_5.5\\engine\\source\\runtime\\projects\\public\\versescope.h",
+            "c:\\users\\tjtod\\unrealprojet\\myproject\\plugins\\dlss\\intermediate\\build\\win64\\unrealeditor\\inc\\dlssblueprint\\uht\\dlsslibrary.gen.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

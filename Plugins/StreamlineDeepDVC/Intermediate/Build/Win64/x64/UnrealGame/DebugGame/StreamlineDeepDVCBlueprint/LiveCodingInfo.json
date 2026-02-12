@@ -1,0 +1,10 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.StreamlineDeepDVCBlueprint.cpp.obj": [
+			"StreamlineDeepDVCBlueprint.init.gen.cpp.obj",
+			"StreamlineLibraryDeepDVC.gen.cpp.obj",
+			"StreamlineLibaryDeepDVC.cpp.obj"
+		]
+	}
+}

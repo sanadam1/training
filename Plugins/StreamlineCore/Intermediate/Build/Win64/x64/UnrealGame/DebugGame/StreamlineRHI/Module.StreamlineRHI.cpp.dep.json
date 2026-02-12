@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\tjtod\\unrealprojet\\myproject\\plugins\\streamlinecore\\intermediate\\build\\win64\\x64\\unrealgame\\debuggame\\streamlinerhi\\module.streamlinerhi.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\tjtod\\unrealprojet\\myproject\\intermediate\\build\\win64\\x64\\myproject\\debuggame\\engine\\sharedpch.engine.project.nonoptimized.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\tjtod\\unrealprojet\\myproject\\plugins\\streamlinecore\\intermediate\\build\\win64\\x64\\unrealgame\\debuggame\\streamlinerhi\\definitions.streamlinerhi.h",
+            "c:\\users\\tjtod\\unrealprojet\\myproject\\plugins\\streamlinecore\\intermediate\\build\\win64\\unrealgame\\inc\\streamlinerhi\\uht\\streamlinerhi.init.gen.cpp",
+            "c:\\users\\tjtod\\unrealprojet\\myproject\\plugins\\streamlinecore\\intermediate\\build\\win64\\unrealgame\\inc\\streamlinerhi\\uht\\streamlinesettings.gen.cpp",
+            "c:\\users\\tjtod\\unrealprojet\\myproject\\plugins\\streamlinecore\\source\\streamlinerhi\\public\\streamlinesettings.h",
+            "c:\\users\\tjtod\\unrealprojet\\myproject\\plugins\\streamlinecore\\intermediate\\build\\win64\\unrealgame\\inc\\streamlinerhi\\uht\\streamlinesettings.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

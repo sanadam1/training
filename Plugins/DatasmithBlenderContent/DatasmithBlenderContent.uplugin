@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.1",
+	"FriendlyName": "Datasmith Blender Content",
+	"Description": "Additional content to aid importing Datasmith files from Blender.",
+	"Category": "Importers",
+	"CreatedBy": "Andrés Botero",
+	"CreatedByURL": "https://github.com/botero-dev",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "5.5.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "DatasmithBlenderContent",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

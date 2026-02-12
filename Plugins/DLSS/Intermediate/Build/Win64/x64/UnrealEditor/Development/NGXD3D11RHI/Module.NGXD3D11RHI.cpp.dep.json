@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\tjtod\\unrealprojet\\myproject\\plugins\\dlss\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\ngxd3d11rhi\\module.ngxd3d11rhi.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\tjtod\\unrealprojet\\myproject\\intermediate\\build\\win64\\x64\\myprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\tjtod\\unrealprojet\\myproject\\plugins\\dlss\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\ngxd3d11rhi\\definitions.ngxd3d11rhi.h",
+            "c:\\users\\tjtod\\unrealprojet\\myproject\\plugins\\dlss\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\ngxd3d11rhi\\permoduleinline.gen.cpp",
+            "f:\\epic\\game\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-StreamlineReflexBlueprint.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\tjtod\Unrealprojet\MyProject\Intermediate\Build\Win64\x64\MyProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\tjtod\Unrealprojet\MyProject\Plugins\StreamlineReflex\Intermediate\Build\Win64\x64\UnrealEditor\Development\StreamlineReflexBlueprint\Module.StreamlineReflexBlueprint.cpp.obj"
+"C:\Users\tjtod\Unrealprojet\MyProject\Plugins\StreamlineReflex\Intermediate\Build\Win64\x64\UnrealEditor\Development\StreamlineReflexBlueprint\StreamlineLibraryReflex.cpp.obj"
+"C:\Users\tjtod\Unrealprojet\MyProject\Plugins\StreamlineReflex\Intermediate\Build\Win64\x64\UnrealEditor\Development\StreamlineReflexBlueprint\Default.rc2.res"
+/OUT:"C:\Users\tjtod\Unrealprojet\MyProject\Plugins\StreamlineReflex\Intermediate\Build\Win64\x64\UnrealEditor\Development\StreamlineReflexBlueprint\UnrealEditor-StreamlineReflexBlueprint.lib"
