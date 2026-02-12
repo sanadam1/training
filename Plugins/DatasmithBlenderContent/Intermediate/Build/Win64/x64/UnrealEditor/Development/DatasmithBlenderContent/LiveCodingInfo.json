@@ -1,9 +1,0 @@
-{
-	"RemapUnityFiles": 
-	{
-		"Module.DatasmithBlenderContent.cpp.obj": [
-			"PerModuleInline.gen.cpp.obj",
-			"DatasmithBlenderContent.cpp.obj"
-		]
-	}
-}
