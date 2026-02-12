@@ -48,6 +48,23 @@ class AMyProjectCharacter : public ACharacter
 
 public:
 	AMyProjectCharacter();
+
+	// --- Health System ---
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Health")
+	float MaxHealth = 100.f;
+
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Health")
+	float CurrentHealth;
+
+	// Called to apply damage
+	UFUNCTION(BlueprintCallable, Category = "Health")
+	void ApplyDamage(float DamageAmount);
+
+protected:
+	virtual void Tick(float DeltaSeconds) override;
+	// Used to track fall height
+	float FallStartZ;
+	bool bIsFalling = false;
 	
 
 protected:
